@@ -5,7 +5,7 @@ Soy un apasionado desarrollador front-end con un enfoque en crear experiencias w
 
 - 🎓 Graduado en Ingeniería Mecatrónica de la Universidad Tecnológica de México.
 - 💼 Experiencia en desarrollo front-end con HTML, CSS y JavaScript.
-- 🌱 Actualmente aprendiendo más sobre [área de interés o tecnología en la que te estás enfocando].
+- 🌱 Actualmente aprendiendo más sobre [Java y Springboot].
 - 🚀 Buscando oportunidades emocionantes para contribuir a proyectos innovadores.
 
 ## Habilidades
